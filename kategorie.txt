@@ -1,0 +1,8 @@
+rachunki
+spożywcze
+artykuły domowe
+ubrania
+kosmetyki
+transport
+leki
+inne
